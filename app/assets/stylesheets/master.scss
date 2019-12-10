@@ -4,6 +4,7 @@
   box-shadow: 0px 1px 3px #2a2a2a;
   background: image_url('splash.jpg')
   
+  
 }
 .navbar-inverse a.navbar-brand {
   font-family: "Helvetica Neue", Helvetica;
@@ -56,5 +57,10 @@ body {
   background: #fff;
   border: 1px solid #ccc;
   border-color: #e4e4e4 #bebebd #bebebd #e4e4e4;
+  padding: 10px;
 }
+.booyah-box h2, .booyah-box h1 {
+  margin: 10px;
+}
+
 
